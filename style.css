@@ -2,3 +2,8 @@ html, body {
   height: 100%;
   width: 100%;
 }
+
+#mycanvas {
+  border: 1px solid #000;
+  background-color: #d6d6d6;
+}
