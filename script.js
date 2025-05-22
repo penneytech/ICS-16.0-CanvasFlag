@@ -1,5 +1,11 @@
-/* Create an imaginary country flag that includes at least one of each Canvas elements we reviewed. 
+/* 
+
+Create an imaginary country flag that includes at least one of each Canvas elements we reviewed. 
+Be creative and use the canvas elements we learned about in the google slide and from the examples.
+
+
 Your flag should have the text name of your fake country name on it. 
+
 */
 
 // target the HTML element for the canvas (KEEP THIS)
@@ -46,7 +52,7 @@ ctx.fillStyle = "green"; // Set the fill color
 ctx.fill(); // Fill the circle
 
 // Draw text
-ctx.font = "30px Arial"; // Set the font size and family
+ctx.font = "30px Arial"; // Set the font size anxwd family
 ctx.fillStyle = "black"; // Set the text color
 ctx.fillText("My Country", 50, 50); // Text, X position, Y position
 
